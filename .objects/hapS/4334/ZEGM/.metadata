@@ -1,0 +1,14 @@
+﻿{
+  "Id": "ZEGMbm4xW0mdmR_Ixya_DA",
+  "Reference": "iHKXpOxsLU2utiVFuYC03w/ZEGMbm4xW0mdmR_Ixya_DA",
+  "ParentRef": "iHKXpOxsLU2utiVFuYC03w/4334LrB6HkiQrBJajFpNXA",
+  "Name": "template of id card - Word",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2023-05-24T04:43:08.9332701Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T04:43:08.9332701Z"
+}
